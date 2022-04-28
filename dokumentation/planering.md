@@ -3,9 +3,20 @@
 Skriv ned tema, färger, vad handlar din text om.
 Skapa 
 
+Tema: theme-no.html
+
 * färger
+
+Ljusblå/vit/mörkgrå  
+#63ADF2
+
+
 * bilder ikoner
+
+
 * typsnitt
+Enkelt
+
 * former
 
 
