@@ -27,10 +27,11 @@ Enkelt
 
 ## Vecka 18
 
-
+Hitta bild, gör sidebar för källor och författare 
 
 ## Vecka 19 NP
 
+Lägg till paraplybilden, gör klart sidebaren 
 
 ## Vecka 20
 
