@@ -109,6 +109,31 @@ body {
     background-color: var(--color-shadow);
 }
 
+.main {
+    display: flex;
+}
+
+.sidebar {
+    padding-left: 4rem !important;
+    
+}
+
+.sources {
+    font-size: 0.7rem;
+}
+
+.author-picture {
+    margin-left: auto;
+    margin-right: auto;
+    width: 14rem;
+    height: 14rem;
+    background-image: url(../img/20210427_191953.jpg);
+    background-size: 14rem;
+    background-position-y: top;
+    background-position-x: left;
+    border-radius: 52rem;
+}
+
 .container > section {
     padding: 3rem 0;
 }
@@ -118,6 +143,21 @@ body {
         max-width: 36rem;
     }
 }
+@media(max-width: 62rem){ 
+    .main {
+        display: block;
+    }
+}
+
+@media(max-width: 62rem){ 
+    .sidebar {
+        padding-left: 0rem !important;
+    }
+}
+.sidebar {
+    padding-left: 4rem;
+}
+
 @media (min-width: 48rem) {
     .container {
         max-width: 48rem;
